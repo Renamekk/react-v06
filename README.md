@@ -1,1 +1,1 @@
-# goit-react-hw-06
+# react-v06
